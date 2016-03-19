@@ -1,0 +1,6 @@
+{
+    //We use 72 for docstrings in Python and 79 for code.
+    // This follows PEP8
+    "rulers": [72, 79],
+    "tab_size": 4,
+}

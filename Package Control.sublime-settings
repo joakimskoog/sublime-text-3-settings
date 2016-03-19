@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-pylint",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

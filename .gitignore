@@ -1,0 +1,4 @@
+SublimeLinter/
+Package Control.cache/
+*-ca-bundle
+*.last-run
